@@ -1,5 +1,5 @@
 # Project-One
-## Project one of U of A Bootcamp
+## International Space Station Seeker
 
 #### Leigh (@leightenore), Justin (@Sleepisacrutchbutcrucial), Christian (@clagarda23) and Alex (@aodem)
 
