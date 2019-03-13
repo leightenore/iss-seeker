@@ -1,7 +1,9 @@
-# Project-One
+# Project One
 ## International Space Station Seeker
 
-#### Leigh (@leightenore), Justin (@Sleepisacrutchbutcrucial), Christian (@clagarda23) and Alex (@aodem)
+[https://leightenore.github.io/iss-seeker/](https://leightenore.github.io/iss-seeker/)
+
+#### Leigh Tenore (@leightenore), Alex Odem, (@aodem), Christian Lagarda (@clagarda23), and Justin Fredrickson (@Sleepisacrutchbutcrucial), 
 
 ## Description 
 
