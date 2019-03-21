@@ -27,7 +27,7 @@ This application will allow users to enter a location (city, state or city, coun
 
 ### External APIs
 
-* MapQuest
-* Open Notify ISS
+* [MapQuest Geocoding](https://developer.mapquest.com/documentation/geocoding-api/)
+* [Open Notify ISS](http://open-notify.org/Open-Notify-API/)
 
 
