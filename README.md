@@ -11,7 +11,7 @@ This application will allow users to enter a location (city, state or city, coun
 
 ### Needed action
 
-- Will need to enable loading of unsafe scripts in order to use application. The blocked content warning will show in the URL to the right. When clicking the sheild, there will be the option to "Load Unsafe Scripts". 
+- Will need to enable loading of unsafe scripts in order to use application. The blocked content warning will show in the URL to the right. When clicking the shield, there will be the option to "Load Unsafe Scripts". 
 
 ### Technologies Utilized
 
