@@ -3,7 +3,7 @@
 
 [https://leightenore.github.io/iss-seeker/](https://leightenore.github.io/iss-seeker/)
 
-#### Leigh Tenore (@leightenore), Alex Odem, (@aodem), Christian Lagarda (@clagarda23), and Justin Fredrickson (@Sleepisacrutchbutcrucial), 
+#### Leigh Tenore (@leightenore), Alex Odem (@aodem), Christian Lagarda (@clagarda23), and Justin Fredrickson (@Sleepisacrutchbutcrucial)
 
 ## Description 
 
